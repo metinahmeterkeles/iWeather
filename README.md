@@ -2,7 +2,7 @@
 
 ### Figma UI Link: <a>https://www.figma.com/file/CmZupOVTB1WkYfLwElyzLL/iWeather?type=design&node-id=3%3A376&mode=design&t=Fccntqhigcu1L8Xv-1</a>
 
-### Netlify Linki: <a>iweather-metin.netlify.app/</a>
+### Netlify Linki: <a>https://iweather-metin.netlify.app/</a>
 
 # Projeyi başlatmak için yapılması gerekenler
 yarn
