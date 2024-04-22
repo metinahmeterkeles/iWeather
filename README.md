@@ -4,6 +4,7 @@
 
 # Projeyi başlatmak için yapılması gerekenler
 yarn
+<br/>
 yarn dev
 
 ## Açıklama 
